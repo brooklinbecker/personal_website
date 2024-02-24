@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "BROOKLIN BECKER"
+  page-navigation: true
+  navbar:
+    background: "light"
+    left:
+      - text: "CV"
+        file: cv_git.pdf
+      - text: "RESUME"
+        file: resume_git.pdf
+      - academicpapers.qmd
+    page-footer:
+      right:
+        - icon: github
+      border: true
+      background: "light"
+        
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+

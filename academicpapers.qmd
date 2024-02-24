@@ -1,0 +1,7 @@
+---
+title: "ACADEMIC PAPERS"
+---
+
+Barfoot, S, Becker, B, Mohammadi, M. (2024). *Gender, Age, and Peer Influence on Food Incentives in Elementary Schools.* Academic Paper – Worlds Become Data. \[[available](https://github.com/SamanthaBarfoot/food-incentive-analysis.git)\]\*
+
+Becker, B. (2024). *Measuring Material Progression in Toronto’s Major Crime Frequency.* Academic Paper – Worlds Become Data. \[[available](https://github.com/brooklinbecker/major_crimes.git)\]\*
