@@ -18,3 +18,17 @@ Student of the *iSchool's* Bachelor of Information at the University of Toronto,
 University of Toronto Student Engagement \| Toronto, ON \| *Campus Organizations Assistant* \| Sept 2023 - Current
 
 University of Toronto Student Engagement \| Toronto, ON \| *Special Projects Assistant* \| Sept 2022 - April 2023
+
+```{r}
+library(usethis)
+use_git()
+```
+```{r}
+library(usethis)
+use_github()
+```
+```{r}
+install.packages("gitcreds")
+library(gitcreds)
+gitcreds_set()
+```
