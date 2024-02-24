@@ -21,14 +21,4 @@ University of Toronto Student Engagement \| Toronto, ON \| *Special Projects Ass
 
 ```{r}
 library(usethis)
-use_git()
-```
-```{r}
-library(usethis)
-use_github()
-```
-```{r}
-install.packages("gitcreds")
-library(gitcreds)
-gitcreds_set()
 ```
