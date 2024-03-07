@@ -8,6 +8,10 @@ website:
   navbar:
     background: "light"
     left:
+      - text: "CV"
+        file: git_cv.pdf
+      - text: "RESUME"
+        file: git_resume.pdf
       - academicpapers.qmd
     page-footer:
       right:
@@ -21,7 +25,7 @@ format:
   html:
     theme: lux
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 

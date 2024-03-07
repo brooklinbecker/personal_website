@@ -4,9 +4,9 @@ title: "Brooklin Becker"
 about: 
   template: trestles
   links: 
-    - text: github
+    - icon: github
       url: "https://github.com/brooklinbecker"
-    - text: palette
+    - icon: palette
       url: "https://brooklinbecker.com"
 comments: false
 ---
