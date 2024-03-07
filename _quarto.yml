@@ -8,6 +8,8 @@ website:
   navbar:
     background: "light"
     left:
+      - href: index.qmd
+        text: Home
       - text: "CV"
         file: cv_git.pdf
       - text: "RESUME"
