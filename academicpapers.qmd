@@ -1,6 +1,6 @@
 ---
 title: "ACADEMIC PAPERS"
-toc: false
+toc: true
 ---
 
 Barfoot, S, Becker, B, Mohammadi, M. (2024). *Gender, Age, and Peer Influence on Food Incentives in Elementary Schools.* Academic Paper – Worlds Become Data. \[[available](https://github.com/SamanthaBarfoot/food-incentive-analysis.git)\]\*
