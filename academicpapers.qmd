@@ -3,6 +3,9 @@ title: "ACADEMIC PAPERS"
 toc: true
 ---
 
-Barfoot, S, Becker, B, Mohammadi, M. (2024). *Gender, Age, and Peer Influence on Food Incentives in Elementary Schools.* Academic Paper – Worlds Become Data. \[[available](https://github.com/SamanthaBarfoot/food-incentive-analysis.git)\]\*
 
-Becker, B. (2024). *Measuring Material Progression in Toronto’s Major Crime Frequency.* Academic Paper – Worlds Become Data. \[[available](https://github.com/brooklinbecker/major_crimes.git)\]\*
+Becker, B. (2024). *Influence of Public Stigma on the Grieving Experiences Among Bereaved Women.* Academic Paper – Worlds Become Data. \[[available](https://github.com/brooklinbecker/grief_stigma/blob/main/paper/grief_stigma.pdf)\]\*
+
+Becker, B. (2024). *Measuring Material Progression in Toronto’s Major Crime Frequency.* Academic Paper – Worlds Become Data. \[[available](https://github.com/brooklinbecker/major_crimes/blob/main/outputs/paper/MajorCrime.pdf)\]\*
+
+Barfoot, S, Becker, B, Mohammadi, M. (2024). *Gender, Age, and Peer Influence on Food Incentives in Elementary Schools.* Academic Paper – Worlds Become Data. \[[available](https://github.com/brooklinbecker/food-incentive-analysis/blob/main/outputs/paper/paper.pdf)\]\*
