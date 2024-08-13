@@ -12,8 +12,6 @@ website:
         text: Home
       - text: "CV"
         file: git_cv.pdf
-      - text: "RESUME"
-        file: git_resume.pdf
       - academicpapers.qmd
     page-footer:
       right:
