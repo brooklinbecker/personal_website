@@ -10,7 +10,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: "axa CV"
+      - text: "CV"
         file: git_cv.pdf
       - academicpapers.qmd
     page-footer:
