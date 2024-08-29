@@ -11,7 +11,7 @@ about:
 comments: false
 ---
 
-Student of the *iSchool's* Bachelor of Information at the University of Toronto, with a background in Criminology & Sociolegal Studies. Expert communicator. Masterful collaborator. Thrives in environments which demand adaptability and agility, and value cross-functional collaboration. Passionate about criminal justice policy, everything data and anything innovative.
+Student of the *iSchool's* Bachelor   of Information at the University of Toronto, with a background in Criminology & Sociolegal Studies. Expert communicator. Masterful collaborator. Thrives in environments which demand adaptability and agility, and value cross-functional collaboration. Passionate about criminal justice policy, everything data and anything innovative.
 
 ##### Professional Experience
 
