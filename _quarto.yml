@@ -13,6 +13,7 @@ website:
       - text: "Curriculum Vitae"
         file: git_cv.pdf
       - academicpapers.qmd
+      - projects.qmd
     page-footer:
       right:
         - icon: github
