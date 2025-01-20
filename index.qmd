@@ -6,8 +6,8 @@ about:
   links: 
     - icon: github
       url: "https://github.com/brooklinbecker"
-    - icon: palette
-      url: "https://brooklinbecker.com"
+    - icon: linkedin
+      url: "www.linkedin.com/in/brooklin-becker"   
 comments: false
 ---
 
