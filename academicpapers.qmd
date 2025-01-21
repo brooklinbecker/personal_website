@@ -3,7 +3,7 @@ title: "ACADEMIC PAPERS"
 toc: true
 ---
 
-Barfoot, S, Becker, B, Mohammadi, M. (2024). *Gender, Age, and Peer Influence on Food Incentives in Elementary Schools.* Academic Paper – Worlds Become Data. \[[available](https://github.com/brooklinbecker/food-incentive-analysis/blob/main/outputs/paper/paper.pdf)\]\*
+Barfoot, S., Becker, B., Mohammadi, M. (2024). *Gender, Age, and Peer Influence on Food Incentives in Elementary Schools.* Academic Paper – Worlds Become Data. \[[available](https://github.com/brooklinbecker/food-incentive-analysis/blob/main/outputs/paper/paper.pdf)\]\*
 
 Becker, B. (2024). *The Broadcasting Act and Bill C-11: Regulations for Online Streaming.* Academic Policy Brief – Information Policy in Canadian and Global Contexts. \[[available](https://drive.google.com/file/d/1izG8ZMQufXFaIziMvPb5u77fEonXcmSR/view?usp=sharing)\]\*
 
