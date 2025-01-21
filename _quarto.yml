@@ -10,8 +10,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: "Curriculum Vitae"
-        file: git_cv.pdf
       - academicpapers.qmd
     page-footer:
       right:
